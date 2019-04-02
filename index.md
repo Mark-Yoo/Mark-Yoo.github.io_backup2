@@ -1,1 +1,2 @@
-# Very first post for Jekyll
+layout: home
+author_profile:true
